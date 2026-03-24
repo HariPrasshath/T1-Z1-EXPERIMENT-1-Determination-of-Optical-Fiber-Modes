@@ -1,6 +1,6 @@
-
 # Exp 1 Mode Characteristics of Fiber Optic Cable
-
+# Name:Hari Prasshath K K
+# Reg No:212223060077
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
@@ -57,7 +57,12 @@ Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
+<img width="1500" height="1432" alt="image" src="https://github.com/user-attachments/assets/d05cbe14-9bce-4640-b236-ec25724db589" />
+
 
 ---
 ## Tabulation
+<img width="1600" height="1242" alt="image" src="https://github.com/user-attachments/assets/e6454668-3998-450e-ab56-66b05cde58ec" />
+
 ## Result
+Thus the mode characteristics of fiber optic cable supports or propagates through 6 modes and observe four lower order Linearly Polarized (LP) modes.
