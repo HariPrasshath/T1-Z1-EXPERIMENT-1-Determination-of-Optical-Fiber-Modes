@@ -64,5 +64,5 @@ Total number of modes = V2 / 2 = 4.912 / 2
 ## Tabulation
 <img width="1600" height="1242" alt="image" src="https://github.com/user-attachments/assets/e6454668-3998-450e-ab56-66b05cde58ec" />
 
-## Result
+## Result 
 Thus the mode characteristics of fiber optic cable supports or propagates through 6 modes and observe four lower order Linearly Polarized (LP) modes.
